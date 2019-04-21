@@ -3,8 +3,8 @@ def reverse_each_word(sentence1)
 end
 
     
-#.split "splits" the array into 
+#.split "splits" the array into word 
 #.collect creates a new array containing the values returned by the block.
-#
+#.join(" ") 
   
   
