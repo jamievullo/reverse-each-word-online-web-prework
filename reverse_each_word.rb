@@ -4,6 +4,7 @@ end
 
     
 #.split "splits" the array into 
-#.collect creates a new array to 
+#.collect creates a new array containing the values returned by the block.
+#
   
   
